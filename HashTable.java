@@ -1,3 +1,4 @@
+// Written by Jason Chen chen7756 and Nadir Abdullahi abdul639
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
